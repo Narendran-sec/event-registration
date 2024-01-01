@@ -24,9 +24,10 @@ Publish the website in the given URL.
 ## DESIGN:
 
 ## PROGRAM :
+
+### CSS CODE:
 ```
-### CSS CODE
-### Login Page:
+ Login Page:
 .desktop-1-6Lu {
 background-color: #ffffff;
 height: 102.4rem;
@@ -164,7 +165,10 @@ white-space: nowrap;
 width: 33.5rem;
 }
 }
+```
+
 ### Account Creation page:
+```
 .desktop-2-xbo {
 align-items: center;
 background-color: #ffffff;
@@ -290,7 +294,10 @@ white-space: nowrap;
 width: 100%;
 }
 }
+```
+
 ### Events Page:
+```
 desktop-4-XoB {
 align-items: center;
 background-color: #ffffff;
@@ -444,7 +451,9 @@ width: calc(100% - 53.7rem);
 }
 }
 }
+```
 ### Success Page :
+```
 .desktop-3-m4R {
 align-items: center;
 background-color: #ffffff;
